@@ -1,10 +1,37 @@
 body {
-  background-image: url(https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg);
+  background-image: url(https://images.pexels.com/photos/326058/pexels-photo-326058.jpeg?cs=srgb&dl=pexels-pixabay-326058.jpg&fm=jpg);
 }
-.logo {
+.logo img {
   height: auto;
-  width: 150px;
+  width: 75px;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+
 }
 .nav ul{
+  gap: 200px;
   display: flex;
+}
+.nav {
+
+display: flex;
+justify-content: flex-end;
+
+}
+
+h1 {
+  text-align: center;
+
+}
+.otsing img{
+  width: 30px;
+  height: auto;
+}
+p {
+  text-align: center;
 }
