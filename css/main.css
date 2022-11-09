@@ -35,3 +35,21 @@ h1 {
 p {
   text-align: center;
 }
+
+}
+.pilt {
+  justify-content: center;
+  width: 80%;
+  height: auto;
+  display:flex;
+
+}
+ul{
+  list-style: none;
+}
+.pilt1 {
+  display: flex;
+  align-items:center;
+  justify-content: center;
+
+}
